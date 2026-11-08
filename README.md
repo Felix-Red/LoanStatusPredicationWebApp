@@ -6,7 +6,7 @@ This project is a machine learning system that employs Support Vector Machines (
 
 In this project, the Support Vector Machine algorithm is utilized for the classification of whether a user is approved for a loan or not. The system analyzes user-provided data to determine loan approval status.
 
-![image of dash app]([https://github.com/Felix-Red/Group-k-project-1/blob/main/Screenshot%202024-05-18%20132803.png](https://github.com/Felix-Red/LoanStatusPredicationWebApp/blob/main/Screenshot%202026-11-08%20at%2010.59.07.png)
+![image of dash app](https://github.com/Felix-Red/LoanStatusPredicationWebApp/blob/main/Screenshot%202026-11-08%20at%2010.59.07.png)
 
 ## Usage
 
